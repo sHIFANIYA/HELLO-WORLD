@@ -4,7 +4,7 @@
 void myPrintHelloMake(void) {
 
   printf("Hello makefiles!\n");
-  PRINTF("MY FIRST COMMIT  ........\n")
+  printf("MY FIRST COMMIT  ........\n");
 
   return;
 }
